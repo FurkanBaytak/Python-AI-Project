@@ -78,15 +78,21 @@ Then, open the desired `.ipynb` file to view and execute the code.
 - Goal Test: Checks if no two queens threaten each other.
 - Path Cost: Heuristic function calculating the number of attacking queen pairs.
 
+- [Assesment 1](https://github.com/FurkanBaytak/Python-AI-Project/blob/main/PA_Assesments_Papers/AI_PA1.pdf)
+
 ### Assignment 2
 
 **Problem Formulation:**
 - Similar to Assignment 1 but with different constraints and initial setups.
 
+- [Assesment 2](https://github.com/FurkanBaytak/Python-AI-Project/blob/main/PA_Assesments_Papers/AI_PA2.pdf)
+
 ### Assignment 3
 
 **Problem Formulation:**
 - Extends the problem to larger board sizes and involves more complex heuristic evaluations.
+
+- [Assesment 1](https://github.com/FurkanBaytak/Python-AI-Project/blob/main/PA_Assesments_Papers/AI_PA3.pdf)
 
 ## Results
 
