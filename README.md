@@ -54,7 +54,7 @@ To run this project, follow these steps:
 
 ## Usage
 
-Each assignment can be run individually using Jupyter Notebook. To start Jupyter Notebook, use the following command:
+This one .ipynb file is the collection of all these three assesments. To start Jupyter Notebook, use the following command:
     ```bash
     jupyter notebook
     ```
