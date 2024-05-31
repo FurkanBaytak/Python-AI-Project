@@ -34,7 +34,13 @@ The project files are organized as follows:
   /Python-AI-Project
   │
   ├── AI_PA.ipynb
-  └── AI_PA_Report.pdf
+  ├── AI_PA_Report.pdf
+  ├── PA_Base
+  │ └── AI_PA1_Base.ipynb
+  └── PA_Assesment_Papers
+  ├── AI_PA1.pdf
+  ├── AI_PA2.pdf
+  └── AI_PA3.pdf
 ```
 
 ## Setup
